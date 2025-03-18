@@ -10,7 +10,7 @@ Bem-vindo ao Meu GitHub!      📌
 </div>
 
 ## 🛠 Sobre mim
-Sou um desenvolvedor que trabalha com **PHP e jQuery**. Atualmente, estou focado na integração de bancos de dados dentro de aplicações web.
+Sou um desenvolvedor que trabalha com **PHP **. Atualmente, estou focado na integração de bancos de dados dentro de aplicações web.
 <div>
 <a href="https://github.com/Vini7k">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini7k&layout=compact&langs_count=7&theme=dracula"/>
