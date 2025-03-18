@@ -1,4 +1,4 @@
-## # Olá, me chamo Vinícius de!  👋
+## # Olá, me chamo Vinícius!  👋
 
 # Estou aprendendo: 💻
 
