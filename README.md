@@ -1,6 +1,8 @@
 ## # Olá, me chamo Vinícius!  👋
 Bem-vindo ao Meu GitHub!      📌
 
+![Snake animation](https://github.com/Vini7k/Vini7k/blob/output/github-contribution-grid-snake.svg)
+
 ## #Estou aprendendo: 💻
 
 <div>  
@@ -24,7 +26,3 @@ Se quiser trocar ideias ou colaborar em algum projeto, me encontre em:
 </div>
 
 ## #
-
-
-
-![Snake animation](https://github.com/Vini7k/Vini7k/blob/output/github-contribution-grid-snake.svg)
